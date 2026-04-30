@@ -26,5 +26,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://mahadevbooksguide.live/sitemap.xml
-Host: https://mahadevbooksguide.live
+Sitemap: https://mahadevbets.live/sitemap.xml
+Host: https://mahadevbets.live
