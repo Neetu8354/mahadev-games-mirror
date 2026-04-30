@@ -14,7 +14,7 @@ interface SEOProps {
   noindex?: boolean;
 }
 
-const SITE_URL = "https://mahadevbets.live";
+const SITE_URL = "https://mahadevbooksguide.live";
 
 export const SEO = ({
   title,
