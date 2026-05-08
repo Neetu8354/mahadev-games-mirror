@@ -41,7 +41,7 @@ const Blog = () => {
         title="Cricket Betting & Casino Blog India 2026 | Mahadev Book Guides & Tips"
         description="Expert guides on IPL 2026 betting, online cricket ID, Teen Patti, Andar Bahar, live casino, UPI deposits and winning strategy. India's top betting blog."
         canonical="/blog"
-        keywords="cricket betting blog, ipl 2026 tips, teen patti guide, andar bahar strategy, online casino india, mahadev book blog"
+        keywords="cricket betting blog, ipl 2026 tips, teen patti guide, andar bahar strategy, online casino india, mahadev book blog, betting sites, sports betting, best sports betting app, online betting, nfl odds, nba picks, ai sports predictions, live dealer casino, no deposit bonus casino, casino bonus, best online casino, online casino real money"
         jsonLd={jsonLd}
       />
       <TickerBar />
