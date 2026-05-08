@@ -39,7 +39,7 @@ const About = () => {
         title="About Mahadev Book — India's #1 Online Cricket Betting ID Provider Since 2019"
         description="Mahadev Book has been India's most trusted online cricket betting & live casino ID provider since 2019. 12,000+ verified players, 24x7 WhatsApp support, instant UPI withdrawal in INR."
         canonical="/about"
-        keywords="about mahadev book, mahadev book company, online cricket id provider india, trusted betting id, mahadev book history"
+        keywords="about mahadev book, mahadev book company, online cricket id provider india, trusted betting id, mahadev book history, betting sites, sports betting, best sports betting app, online betting, live dealer casino, casino bonus, best online casino, online casino real money, ai sports predictions"
         jsonLd={jsonLd}
       />
       <TickerBar />
