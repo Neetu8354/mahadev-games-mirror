@@ -96,7 +96,7 @@ const Index = () => {
         title="Mahadev Book — India's #1 Online Cricket Betting ID | IPL 2026 & Live Casino"
         description="Get your verified Mahadev Book ID instantly via WhatsApp. India's most trusted online cricket betting & live casino — IPL 2026, T20, Teen Patti, Andar Bahar, Roulette. Instant UPI deposit & withdrawal in INR. 24x7 Hindi support."
         canonical="/"
-        keywords="mahadev book, online cricket betting id, ipl 2026 betting, live casino india, teen patti online, andar bahar real money, upi betting, instant withdrawal betting, cricket id provider"
+        keywords="mahadev book, betting sites, sports betting, best sports betting app, online betting, nfl odds, nba picks, ai sports predictions, live dealer casino, no deposit bonus casino, casino bonus, best online casino, online casino real money, online cricket betting id, ipl 2026 betting, live casino india, teen patti online, andar bahar real money, upi betting, instant withdrawal betting, cricket id provider, betting app india, real money casino, sportsbook online, fantasy cricket, slots real money, blackjack online, roulette online, crypto betting"
         jsonLd={jsonLd}
       />
       <TickerBar />
