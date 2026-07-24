@@ -33,7 +33,7 @@ const GamePage = () => {
       areaServed: { "@type": "Country", name: "India" },
       description: game.description,
       url,
-      offers: { "@type": "Offer", price: "100", priceCurrency: "INR", availability: "https://schema.org/InStock", url: WHATSAPP_LINK },
+      offers: { "@type": "Offer", name: "Get Cricket Betting ID", price: "100", priceCurrency: "INR", availability: "https://schema.org/InStock", url: WHATSAPP_LINK },
       aggregateRating: { "@type": "AggregateRating", ratingValue: "4.9", bestRating: "5", ratingCount: "2480", reviewCount: "1850" },
     },
     {
