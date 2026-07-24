@@ -21,9 +21,9 @@ const Index = () => {
       "@type": "Organization",
       name: "Mahadev Book",
       alternateName: ["Mahadev Book ID", "Mahadevvbooks"],
-      url: "https://mahadevbets.live/",
-      logo: "https://mahadevbets.live/favicon.png",
-      image: "https://mahadevbets.live/og-image.jpg",
+      url: "https://www.mahadevbets.live/",
+      logo: "https://www.mahadevbets.live/favicon.png",
+      image: "https://www.mahadevbets.live/og-image.jpg",
       description: "India's most trusted online cricket betting & live casino ID provider with instant UPI deposits & withdrawals in INR.",
       sameAs: ["https://wa.link/reddyanna_"],
       contactPoint: {
@@ -38,10 +38,10 @@ const Index = () => {
       "@context": "https://schema.org",
       "@type": "WebSite",
       name: "Mahadev Book",
-      url: "https://mahadevbets.live/",
+      url: "https://www.mahadevbets.live/",
       potentialAction: {
         "@type": "SearchAction",
-        target: "https://mahadevbets.live/blog?q={search_term_string}",
+        target: "https://www.mahadevbets.live/blog?q={search_term_string}",
         "query-input": "required name=search_term_string",
       },
     },
@@ -50,10 +50,10 @@ const Index = () => {
       "@type": "Service",
       name: "Online Cricket Betting ID & Live Casino",
       serviceType: "Cricket betting ID provider",
-      provider: { "@type": "Organization", name: "Mahadev Book", url: "https://mahadevbets.live/" },
+      provider: { "@type": "Organization", name: "Mahadev Book", url: "https://www.mahadevbets.live/" },
       areaServed: { "@type": "Country", name: "India" },
       description: "Instant verified online cricket betting ID for IPL 2026, T20 World Cup and live casino games like Teen Patti, Andar Bahar, Roulette. UPI deposit & withdrawal in INR.",
-      url: "https://mahadevbets.live/",
+      url: "https://www.mahadevbets.live/",
       offers: {
         "@type": "Offer",
         price: "100",
@@ -85,7 +85,7 @@ const Index = () => {
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
-      itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://mahadevbets.live/" }],
+      itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.mahadevbets.live/" }],
     },
   ];
 

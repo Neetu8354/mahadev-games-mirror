@@ -13,7 +13,7 @@ const BlogPost = () => {
   const post = BLOG_POSTS.find(p => p.slug === slug);
   if (!post) return <Navigate to="/blog" replace />;
 
-  const url = `https://mahadevbets.live/blog/${post.slug}`;
+  const url = `https://www.mahadevbets.live/blog/${post.slug}`;
   const related = post.related.map(s => BLOG_POSTS.find(p => p.slug === s)).filter(Boolean);
 
   const jsonLd: object[] = [
@@ -23,14 +23,14 @@ const BlogPost = () => {
       mainEntityOfPage: { "@type": "WebPage", "@id": url },
       headline: post.title,
       description: post.description,
-      image: [`https://mahadevbets.live/og-image.jpg`],
+      image: [`https://www.mahadevbets.live/og-image.jpg`],
       datePublished: post.publishedAt,
       dateModified: post.updatedAt,
-      author: { "@type": "Organization", name: post.author, url: "https://mahadevbets.live" },
+      author: { "@type": "Organization", name: post.author, url: "https://www.mahadevbets.live" },
       publisher: {
         "@type": "Organization",
         name: "Mahadev Book",
-        logo: { "@type": "ImageObject", url: "https://mahadevbets.live/favicon.png" },
+        logo: { "@type": "ImageObject", url: "https://www.mahadevbets.live/favicon.png" },
       },
       keywords: post.keywords,
       articleSection: post.category,
@@ -41,8 +41,8 @@ const BlogPost = () => {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       itemListElement: [
-        { "@type": "ListItem", position: 1, name: "Home", item: "https://mahadevbets.live/" },
-        { "@type": "ListItem", position: 2, name: "Blog", item: "https://mahadevbets.live/blog" },
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://www.mahadevbets.live/" },
+        { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.mahadevbets.live/blog" },
         { "@type": "ListItem", position: 3, name: post.title, item: url },
       ],
     },
