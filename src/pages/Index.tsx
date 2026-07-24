@@ -64,11 +64,11 @@ const Index = () => {
       },
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.9",
-        bestRating: "5",
-        worstRating: "1",
-        ratingCount: "12480",
-        reviewCount: "8743",
+        ratingValue: 4.9,
+        bestRating: 5,
+        worstRating: 1,
+        ratingCount: 12480,
+        reviewCount: 8743,
       },
     },
     {
