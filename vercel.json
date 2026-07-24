@@ -6,5 +6,61 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
+  ],
+  "headers": [
+    {
+      "source": "/",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://www.mahadevbets.live/>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/about",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://www.mahadevbets.live/about>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/contact",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://www.mahadevbets.live/contact>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/blog",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://www.mahadevbets.live/blog>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/blog/:slug",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://www.mahadevbets.live/blog/:slug>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/games/:slug",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://www.mahadevbets.live/games/:slug>; rel=\"canonical\""
+        }
+      ]
+    }
   ]
 }
