@@ -32,8 +32,9 @@ const GamePage = () => {
       provider: { "@type": "Organization", name: "Mahadev Book", url: "https://mahadevbets.live/" },
       areaServed: { "@type": "Country", name: "India" },
       description: game.description,
+      url,
       offers: { "@type": "Offer", price: "100", priceCurrency: "INR", availability: "https://schema.org/InStock", url: WHATSAPP_LINK },
-      aggregateRating: { "@type": "AggregateRating", ratingValue: "4.9", bestRating: "5", ratingCount: "2480" },
+      aggregateRating: { "@type": "AggregateRating", ratingValue: "4.9", bestRating: "5", ratingCount: "2480", reviewCount: "1850" },
     },
     {
       "@context": "https://schema.org",

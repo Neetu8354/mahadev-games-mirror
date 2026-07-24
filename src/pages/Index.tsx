@@ -53,6 +53,7 @@ const Index = () => {
       provider: { "@type": "Organization", name: "Mahadev Book", url: "https://mahadevbets.live/" },
       areaServed: { "@type": "Country", name: "India" },
       description: "Instant verified online cricket betting ID for IPL 2026, T20 World Cup and live casino games like Teen Patti, Andar Bahar, Roulette. UPI deposit & withdrawal in INR.",
+      url: "https://mahadevbets.live/",
       offers: {
         "@type": "Offer",
         price: "100",
