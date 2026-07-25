@@ -27,6 +27,7 @@ const GamePage = () => {
     {
       "@context": "https://schema.org",
       "@type": "Service",
+      "@id": `https://www.mahadevbets.live/games/${game.slug}#service`,
       name: game.h1,
       serviceType: game.category,
       provider: { "@type": "Organization", name: "Mahadev Book", url: "https://www.mahadevbets.live/" },

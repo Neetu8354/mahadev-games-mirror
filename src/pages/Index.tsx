@@ -48,6 +48,7 @@ const Index = () => {
     {
       "@context": "https://schema.org",
       "@type": "Service",
+      "@id": "https://www.mahadevbets.live/#service",
       name: "Online Cricket Betting ID & Live Casino",
       serviceType: "Cricket betting ID provider",
       provider: { "@type": "Organization", name: "Mahadev Book", url: "https://www.mahadevbets.live/" },
